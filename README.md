@@ -2,7 +2,7 @@
 
 데이터 출처
 
-인구수는
+시도 인구.xlsx는
 https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B040A3 에서 다운로드 받았습니다. 
 
 map.json은
