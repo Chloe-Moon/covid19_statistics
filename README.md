@@ -1,9 +1,9 @@
 # covid19_statistics
 
 카카오 지도 API 사용 방법
-https://developers.kakao.com/ 에 접속하여 로그인(회원가입)한다. 
-상단 메뉴 바에 <내 애플리케이션>을 눌러 <애플리케이션 추가하기>를 한다. 
-REST API 키를 복사하여 사용한다. 
+- https://developers.kakao.com/ 에 접속하여 로그인(회원가입)한다. 
+- 상단 메뉴 바에 <내 애플리케이션>을 눌러 <애플리케이션 추가하기>를 한다. 
+- REST API 키를 복사하여 사용한다. 
 
 데이터 출처
 
